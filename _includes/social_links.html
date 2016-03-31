@@ -1,0 +1,11 @@
+<p class="links">
+	{% if site.data.global.windows != '' %}
+	  <a href="https://twitter.com/{{ site.data.global.twitter }}"><button class="btn btn-default btn-md"><i class="fa fa-windows fa-lg"></i>Windows</button></a>
+	{% endif %}
+	{% if site.data.global.android != '' %}
+	  <a href="https://github.com/{{ site.data.global.github }}"><button class="btn btn-default btn-md"><i class="fa fa-android fa-lg"></i>Android</button></a>
+	{% endif %}
+	{% if site.data.global.mac != '' %}
+	  <a href="https://{{ site.data.global.medium }}"><button class="btn btn-default btn-md"><i class="fa fa-apple fa-lg"></i>Macintosh</button></a>
+	{% endif %}
+</p>

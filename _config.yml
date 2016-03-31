@@ -1,0 +1,38 @@
+# Site settings
+title: "TeamOn"
+email: dev1.solution@uangel.com
+description: "TeamOn Project Blog."
+baseurl: ""
+url: "http://kwonkr01.github.io/blog//"
+title_description1: "It's a fancy and advanced brand new commnunity service. It supports various features such as voice chat, screen capture, screen share and so on..."
+title_description2: "Download a program via below link and enojoy!!"
+title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+google_analytics: ""
+disqus_account: kwonkr01
+github_repository: https://github.com/kwonkr01/TeamOn
+addthis_id: ra-513c6fa83da6ec67
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: 
+github_username:  
+linkedin_link: 
+google_plus_link: 
+stackoverflow_link: 
+site.data.global.windows: "http://kwonkr01.github.io/blog/"
+site.data.global.android: "http://kwonkr01.github.io/blog/"
+site.data.global.mac: "http://kwonkr01.github.io/blog/"
+
+# Footer
+footer_left: "Developed by Uangel Solution Development Team"
+footer_right: "<a href=\"https://github.com/kwonkr01/blog\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
