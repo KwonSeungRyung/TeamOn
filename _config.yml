@@ -2,7 +2,7 @@
 title: "TeamOn"
 email: dev1.solution@uangel.com
 description: "TeamOn Project Blog."
-baseurl: ""
+baseurl: "/TeamOn"
 url: "http://kwonkr01.github.io/blog//"
 title_description1: "It's a fancy and advanced brand new commnunity service. It supports various features such as voice chat, screen capture, screen share and so on..."
 title_description2: "Download a program via below link and enojoy!!"
