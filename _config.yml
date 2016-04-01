@@ -3,7 +3,7 @@ title: "TeamOn"
 email: dev1.solution@uangel.com
 description: "TeamOn Project Blog."
 baseurl: "/TeamOn"
-url: "http://kwonkr01.github.io/blog//"
+url: "http://kwonkr01.github.io/blog/"
 title_description1: "It's a fancy and advanced brand new commnunity service. It supports various features such as voice chat, screen capture, screen share and so on..."
 title_description2: "Download a program via below link and enojoy!!"
 title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
@@ -37,4 +37,4 @@ kramdown:
 permalink: pretty
 exclude: [vendor]
 
-disqus: teamonlandingpage
+disqus_account: teamonlandingpage
